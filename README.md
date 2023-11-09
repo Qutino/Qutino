@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qutino, an electrical engineer with predictable hobbies
 - 💡 Working in the pharmaceutical industry to bring high quality, affordable medicines to anyone who needs them.
 - 👀 I’m interested in PCB design and firmware development!
-- 🌱 I’m currently learning how to use Clearpath Motors with the sFoundation sdk
+- 🌱 One project I'm currently working on is a custom USB macropad programmed with media control buttons. PCB design notes can be found in the repository.
 
 
 <!---
